@@ -18,4 +18,7 @@ constructor(brand,gears)
 
 const suzukibike=new suzuki("FZ",5);
 
+
+
+
 console.log(suzukibike.brand+"-----"+suzukibike.gears);
